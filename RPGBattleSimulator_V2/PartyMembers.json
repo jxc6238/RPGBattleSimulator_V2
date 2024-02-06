@@ -1,0 +1,256 @@
+{
+  "PartyMembers": [
+    {
+      "Name": "Charles",
+      "Health": 10,
+      "Mana": 2,
+      "BaseSpeed": 2.0,
+      "BasePhysDamage": 2.0,
+      "BaseMagicDamage": 1.0,
+      "BasePhysDefense": 5.0,
+      "BaseMagicResist": 5.0,
+      "StartingItems": [
+        {
+          "ItemName": "Iron Helm",
+          "Slot": "Head",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 1.0
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Chestplate",
+          "Slot": "Chest",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Gloves",
+          "Slot": "Hands",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.2
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Boots",
+          "Slot": "Feet",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Speed",
+              "Modifier": -0.3
+            }
+          ]
+        },
+        {
+          "ItemName": "Trinket of Magic Protection",
+          "Slot": "Trinket",
+          "Modifiers": [
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Sword",
+          "Slot": "Weapon",
+          "Modifiers": [
+            {
+              "Buff": "Physical Damage",
+              "Modifier": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Elizabeth",
+      "Health": 10,
+      "Mana": 2,
+      "BaseSpeed": 2.0,
+      "BasePhysDamage": 2.0,
+      "BaseMagicDamage": 1.0,
+      "BasePhysDefense": 5.0,
+      "BaseMagicResist": 5.0,
+      "StartingItems": [
+        {
+          "ItemName": "Iron Helm",
+          "Slot": "Head",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 1.0
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Chestplate",
+          "Slot": "Chest",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Gloves",
+          "Slot": "Hands",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.2
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Boots",
+          "Slot": "Feet",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Speed",
+              "Modifier": -0.3
+            }
+          ]
+        },
+        {
+          "ItemName": "Trinket of Magic Protection",
+          "Slot": "Trinket",
+          "Modifiers": [
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Sword",
+          "Slot": "Weapon",
+          "Modifiers": [
+            {
+              "Buff": "Physical Damage",
+              "Modifier": 0.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Percival",
+      "Health": 10,
+      "Mana": 2,
+      "BaseSpeed": 2.0,
+      "BasePhysDamage": 2.0,
+      "BaseMagicDamage": 1.0,
+      "BasePhysDefense": 5.0,
+      "BaseMagicResist": 5.0,
+      "StartingItems": [
+        {
+          "ItemName": "Iron Helm",
+          "Slot": "Head",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 1.0
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Chestplate",
+          "Slot": "Chest",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Gloves",
+          "Slot": "Hands",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.2
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Boots",
+          "Slot": "Feet",
+          "Modifiers": [
+            {
+              "Buff": "Physical Defense",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            },
+            {
+              "Buff": "Speed",
+              "Modifier": -0.3
+            }
+          ]
+        },
+        {
+          "ItemName": "Trinket of Magic Protection",
+          "Slot": "Trinket",
+          "Modifiers": [
+            {
+              "Buff": "Magic Resist",
+              "Modifier": 0.5
+            }
+          ]
+        },
+        {
+          "ItemName": "Iron Sword",
+          "Slot": "Weapon",
+          "Modifiers": [
+            {
+              "Buff": "Physical Damage",
+              "Modifier": 0.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

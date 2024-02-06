@@ -1,0 +1,14 @@
+﻿  CharacterPlayer.cpp
+  GameObjectBuilder.cpp
+  NamespaceCharacterSorter.cpp
+  NamespacePartyPrinter.cpp
+  PartyInventory.cpp
+  PartyManager.cpp
+  PreBattleInit.cpp
+  PreBattleMenuStateEquipItems.cpp
+  PreBattleMenuStateItems.cpp
+  PreBattleMenuStateMain.cpp
+  PreBattleMenuStateParty.cpp
+  RPGBattleSimulator_V2.cpp
+  Generating Code...
+  RPGBattleSimulator_V2.vcxproj -> C:\Users\Jeffrey\source\repos\RPGBattleSimulator_V2\Debug\RPGBattleSimulator_V2.exe

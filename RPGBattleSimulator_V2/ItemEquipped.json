@@ -1,0 +1,5 @@
+{
+  "Equiptment": [
+    {"ItemName": "Steel Helm", "Slot": "Head", "Modifiers": [ {"Buff": "Physical Defense", "Modifier":  2.0}]}
+  ] 
+}
